@@ -1,4 +1,3 @@
-
 import pytest
 
 from grades import is_pass, result
