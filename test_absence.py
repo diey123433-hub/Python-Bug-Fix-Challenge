@@ -1,4 +1,3 @@
-
 import pytest
 
 from absence import can_sit_exam, status
